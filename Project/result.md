@@ -1,12 +1,5 @@
 
-# for batch size 128 in train loader and 32 in test loader and sequence window 10 and 0.001 learning rate acc is .822
-
-# for batch size 256 in train loader and 32 in test loader and sequence window 10 and 0.001 learning rate acc is .802
-
-
-# for batch size 256 in train loader and 140 in test loader and sequence window 10 and 0.001 learning rate acc is .854
-
-# Classification Results
+# for batch size 256 and head number 32 with 2 layers
 
 ## Accuracy
 **91.4%**
@@ -20,3 +13,6 @@
 | **accuracy**    |            |        | 0.91     | 500     |
 | **macro avg**   | 0.92       | 0.90   | 0.91     | 500     |
 | **weighted avg**| 0.92       | 0.91   | 0.91     | 500     |
+
+
+
